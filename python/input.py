@@ -2,6 +2,7 @@ while True:
     # 任意の整数を入力させる
     user_input = input("任意の整数を入力してください: ")
 
+    # "end"と入力した場合はループを終了
     if user_input == "end":
         break
 
