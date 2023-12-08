@@ -1,5 +1,5 @@
 ```python
-def hello_world():
+def about_this_repository():
 print("プログラミング練習するためのリポジトリ。")
 ```
 
