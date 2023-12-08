@@ -1,1 +1,1 @@
-print("The code has been executed.")
+print("コードが実行されました。")
