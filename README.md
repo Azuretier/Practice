@@ -1,8 +1,8 @@
 ```python
 def about_this_repository():
-print("プログラミング練習するためのリポジトリ。")
+  print("プログラミング練習するためのリポジトリ。")
 ```
 
 # Azuretier
 <img src="./azure.png">
-プログラミング練習中のマイクラ勢
+                      プログラミング練習中のマイクラ勢
