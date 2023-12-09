@@ -1,6 +1,6 @@
 ```python
 def about_this_repository():
-print("プログラミング練習するためのリポジトリ。")
+  print("プログラミング練習するためのリポジトリ。")
 ```
 
 # Azuretier
