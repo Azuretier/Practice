@@ -14,11 +14,11 @@ root.title("Azure GUI")
 root.geometry("960x540")  # 幅300ピクセル、高さ200ピクセル
 
 # 画像の読み込み
-azure = PhotoImage(file="python/azure.png")
-crystal_sword = PhotoImage(file="python/crystal_sword.png")
+azure = PhotoImage(file="python/assets/azure.png")
+crystal_sword = PhotoImage(file="python/assets/crystal_sword.png")
 
 # アイコンを設定
-root.iconbitmap(default="python/icon.ico")
+root.iconbitmap(default="python/assets/icon.ico")
 
 # 画像を表示するためのラベル
 image_label = tk.Label(root, image=azure)
