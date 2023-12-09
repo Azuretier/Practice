@@ -5,4 +5,4 @@ def about_this_repository():
 
 # Azuretier
 <img src="./azure.png">
-プログラミング練習中のマイクラ勢
+                      プログラミング練習中のマイクラ勢
