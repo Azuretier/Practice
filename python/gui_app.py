@@ -1,9 +1,6 @@
 import os
 import tkinter as tk
 from tkinter import PhotoImage
-import pystray
-from pystray import MenuItem as item
-from PIL import Image
 
 def show_image():
     image_label.config(image=crystal_sword)
